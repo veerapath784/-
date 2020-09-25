@@ -8,7 +8,7 @@
     					</div>
     					<div class="text">
     						<h2 id="font_thai">ช่องทางการติดต่อ</h2>
-    						<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+    						<p>ติดต่อ  อ.ชนิภา  งามวิจิตวงศ์ ที่ปรึกษาตลาดออนไลน์ <br> โทร : 065-0518585</p>
     					</div>
     				</div>
     			</div>
@@ -19,7 +19,7 @@
     					</div>
     					<div class="text">
 							<h2 id="font_thai">ที่ตั้งโครงการ</h2>
-    						<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+    						<p>ถนนวัวลาย ตำบล หายยา อำเภอเมืองเชียงใหม่ เชียงใหม่ 50100</p>
     					</div>
     				</div>
     			</div>
@@ -30,7 +30,7 @@
     					</div>
     					<div class="text">
     						<h2 id="font_thai">เวลาให้บริการ</h2>
-    						<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+    						<p>08.30 - 16.00 น.</p>
     					</div>
     				</div>
     			</div>
