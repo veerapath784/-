@@ -65,7 +65,7 @@
       </div>
     </div>
 
-	<?php include 'Contact.php'; ?>
+	<?php include 'Content.php'; ?>
     <!-- END Contact -->
   
 
@@ -139,12 +139,12 @@
 			</div>
 		</section>
 
-		<section class="ftco-section">
+		<section class="ftco-section" id="font_thai">
 			<div class="container">
 				<div class="row justify-content-center pb-5">
           <div class="col-md-7 heading-section text-center ftco-animate">
           	<span class="subheading">Recommended for you</span>
-            <h2 id="font_thai">สินค้าแนะนำสำหรับคุณ</h2>
+            <h2>ผลิตภัณฑ์แนะนำสำหรับคุณ</h2>
           </div>
         </div>
 				<div class="row">
@@ -153,17 +153,20 @@
 							<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Cream/pro_1.jpg);">
 								<div class="desc">
 									<p class="meta-prod d-flex">
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
+										
 										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-heart"></span></a>
 										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
 									</p>
 								</div>
 							</div>
-							<div class="text text-center">
+							<div class="text text-center ">
 								<span class="sale">Sale</span>
 								<span class="category">ครีมบำรุงผลิตภัณฑ์สปา</span>
-								<h2>ธูปหอม ธรรมดี <br> จังหวัดอุทัยธานี </h2>
-								<p class="mb-0"><span class="price price-sale">00.00 ฿</span> <span class="price">$00.00 ฿</span></p>
+								<h2 class="font-weight-normal">ธูปหอม ธรรมดี <br> จังหวัดอุทัยธานี </h2>
+								<p class="mb-0"> <span class="price">$00.00 ฿</span></p>
+								
+								<!-- ตัวแสดงราคาจากปกติ -->
+								<!-- <span class="price price-sale">00.00 ฿</span> -->
 							</div>
 						</div>
 					</div>
@@ -172,7 +175,7 @@
 							<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Cream/pro_2.jpg);">
 								<div class="desc">
 									<p class="meta-prod d-flex">
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
+										
 										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-heart"></span></a>
 										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
 									</p>
@@ -181,7 +184,7 @@
 							<div class="text text-center">
 								<span class="seller">Best Seller</span>
 								<span class="category">ครีมบำรุงผลิตภัณฑ์สปา</span>
-								<h2>แชมพูใบขลู่เรือนไม้หอม <br> จังหวัดสมุทรสงคราม</h2>
+								<h2 class="font-weight-normal">แชมพูใบขลู่เรือนไม้หอม <br> จังหวัดสมุทรสงคราม</h2>
 								<span class="price">00.00 ฿</span>
 							</div>
 						</div>
@@ -191,7 +194,7 @@
 							<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Drink&Food/pro_1.jpg);">
 								<div class="desc">
 									<p class="meta-prod d-flex">
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
+										
 										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-heart"></span></a>
 										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
 									</p>
@@ -200,7 +203,7 @@
 							<div class="text text-center">
 								<span class="new">New Arrival</span>
 								<span class="category">อาหาร&เครื่องดื่ม</span>
-								<h2>งาดำคั่วป่นละเอียดลออ <br> จังหวัดเชียงใหม่</h2>
+								<h2 class="font-weight-normal">งาดำคั่วป่นละเอียดลออ <br> จังหวัดเชียงใหม่</h2>
 								<span class="price">00.00 ฿</span>
 							</div>
 						</div>
@@ -210,7 +213,7 @@
 							<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Drink&Food/pro_2.jpg);">
 								<div class="desc">
 									<p class="meta-prod d-flex">
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
+										
 										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-heart"></span></a>
 										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
 									</p>
@@ -218,7 +221,7 @@
 							</div>
 							<div class="text text-center">
 								<span class="category">อาหาร&เครื่องดื่ม</span>
-								<h2>น้ำผึ้งธรรมรส <br> จังหวัดชัยนาท</h2>
+								<h2 class="font-weight-normal">น้ำผึ้งธรรมรส <br> จังหวัดชัยนาท</h2>
 								<span class="price">00.00 ฿</span>
 							</div>
 						</div>
@@ -229,7 +232,7 @@
 							<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Tshirt/pro_1.jpg);">
 								<div class="desc">
 									<p class="meta-prod d-flex">
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
+										
 										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-heart"></span></a>
 										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
 									</p>
@@ -237,7 +240,7 @@
 							</div>
 							<div class="text text-center">
 								<span class="category">เสื้อผ้า&กระเป๋า&เครื่องประดับ</span>
-								<h2>ผ้าเขียนเทียนชาวไทยภูเขา <br> จังหวัดน่าน</h2>
+								<h2 class="font-weight-normal">ผ้าเขียนเทียนชาวไทยภูเขา <br> จังหวัดน่าน</h2>
 								<span class="price">00.00 ฿</span>
 							</div>
 						</div>
@@ -247,7 +250,7 @@
 							<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Tshirt/pro_2.jpg);">
 								<div class="desc">
 									<p class="meta-prod d-flex">
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
+										
 										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-heart"></span></a>
 										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
 									</p>
@@ -255,7 +258,7 @@
 							</div>
 							<div class="text text-center">
 								<span class="category">เสื้อผ้า&กระเป๋า&เครื่องประดับ</span>
-								<h2>รองเท้าเชือกสานบ้านทุ่งบอน <br> จังหวัดอุบลราชธานี</h2>
+								<h2 class="font-weight-normal">รองเท้าเชือกสานบ้านทุ่งบอน <br> จังหวัดอุบลราชธานี</h2>
 								<span class="price">00.00 ฿</span>
 							</div>
 						</div>
@@ -265,7 +268,7 @@
 							<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Use&Thegift/pro_1.jpg);">
 								<div class="desc">
 									<p class="meta-prod d-flex">
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
+										
 										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-heart"></span></a>
 										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
 									</p>
@@ -273,7 +276,7 @@
 							</div>
 							<div class="text text-center">
 								<span class="category">ของใช้&ของที่ระลึก</span>
-								<h2>กระเป๋าพลาสติกล้อลาก Chonlatip YAZO <br> จังหวัดยโสธร</h2>
+								<h2 class="font-weight-normal">กระเป๋าพลาสติกล้อลาก Chonlatip YAZO <br> จังหวัดยโสธร</h2>
 								<span class="price">00.00 ฿</span>
 							</div>
 						</div>
@@ -283,7 +286,7 @@
 							<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Use&Thegift/pro_2.jpg);">
 								<div class="desc">
 									<p class="meta-prod d-flex">
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
+										
 										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-heart"></span></a>
 										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
 									</p>
@@ -291,7 +294,7 @@
 							</div>
 							<div class="text text-center">
 								<span class="category">ของใช้&ของที่ระลึก</span>
-								<h2>ศิลปะหินทรายมองตาม <br> จังหวัดสระแก้ว</h2>
+								<h2 class="font-weight-normal">ศิลปะหินทรายมองตาม <br> จังหวัดสระแก้ว</h2>
 								<span class="price">00.00 ฿</span>
 							</div>
 						</div>
@@ -331,34 +334,8 @@
                   </div>
                 </div>
               </div>
-              <div class="item">
-                <div class="testimony-wrap py-4">
-                	<div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></div>
-                  <div class="text">
-                    <div class="d-flex align-items-center">
-                    	<div class="user-img" style="background-image: url(images/person_2.jpg)"></div>
-                    	<div class="pl-3">
-		                    <p class="name">Roger Scott</p>
-		                    <span class="position">Marketing Manager</span>
-		                  </div>
-	                  </div>
-                  </div>
-                </div>
-			  </div>
-			  <div class="item">
-                <div class="testimony-wrap py-4">
-                	<div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></div>
-                  <div class="text">
-                    <div class="d-flex align-items-center">
-                    	<div class="user-img" style="background-image: url(images/person_3.jpg)"></div>
-                    	<div class="pl-3">
-		                    <p class="name">Roger Scott</p>
-		                    <span class="position">Marketing Manager</span>
-		                  </div>
-	                  </div>
-                  </div>
-                </div>
-              </div>
+            
+			
             </div>
           </div>
         </div>
@@ -372,7 +349,7 @@
         <div class="row justify-content-center mb-5">
           <div class="col-md-7 heading-section text-center ftco-animate">
           	<span class="subheading">Blog</span>
-            <h2 id="font_thai">บทความสำหรับคุณ</h2>
+            <h2 id="font_thai">ข่าวสาร และ กิจกรรม</h2>
           </div>
         </div>
         <div class="row d-flex">
@@ -384,9 +361,9 @@
               	<div class="meta">
               		<p><span class="fa fa-calendar"></span> 23 April 2020</p>
               	</div>
-                <h3 class="heading mb-3"><a href="#">แผนงาน Online Marketing</a></h3>
-                <p>การให้คำปรึกษาแนะนำเบื้องต้น / การส่งต่อขึ้นทะเบียนสมาชิกสหกิจชุมชนจังหวัดเชียงใหม่ / การส่งต่อหน่วยงานพันธมิตร</p>
-                <a href="#" class="btn-custom">Continue <span class="fa fa-long-arrow-right"></span></a>
+                <h3 class="heading mb-3" id="font_thai"><a href="#">แผนงาน Online Marketing</a></h3>
+                <p id="font_thai">การให้คำปรึกษาแนะนำเบื้องต้น / การส่งต่อขึ้นทะเบียนสมาชิกสหกิจชุมชนจังหวัดเชียงใหม่ / การส่งต่อหน่วยงานพันธมิตร</p>
+                <a href="#" class="btn-custom"id ="font_thai">ดูเพิ่มเติม <span class="fa fa-long-arrow-right"></span></a>
 
               </div>
             </div>
@@ -399,9 +376,9 @@
               	<div class="meta">
               		<p><span class="fa fa-calendar"></span> 23 April 2020</p>
               	</div>
-                <h3 class="heading mb-3"><a href="#">แผนงาน Online Marketing</a></h3>
-                <p>การเชื่อมโยงหน่วยงานในพื้นที่ภาครัฐและเอกชน เพื่อเชื่อมโยงด้านข้อมูลการบริการ และความร่วมมือในด้านต่าง ๆ</p>
-                <a href="#" class="btn-custom">Continue <span class="fa fa-long-arrow-right"></span></a>
+                <h3 class="heading mb-3" id="font_thai"><a href="#">แผนงาน Online Marketing</a></h3>
+                <p id="font_thai">การเชื่อมโยงหน่วยงานในพื้นที่ภาครัฐและเอกชน เพื่อเชื่อมโยงด้านข้อมูลการบริการ และความร่วมมือในด้านต่าง ๆ</p>
+                <a href="#" class="btn-custom"id ="font_thai">ดูเพิ่มเติม <span class="fa fa-long-arrow-right"></span></a>
 
               </div>
             </div>
@@ -414,9 +391,9 @@
               	<div class="meta">
               		<p><span class="fa fa-calendar"></span> 23 April 2020</p>
               	</div>
-                <h3 class="heading mb-3"><a href="#">แผนงาน Online Marketing</a></h3>
-                <p>การสนับสนุน / ถ่ายทอดองค์ความรู้ทางธุรกิจให้กับสมาชิกสหกิจชุมชน</p>
-                <a href="#" class="btn-custom">Continue <span class="fa fa-long-arrow-right"></span></a>
+                <h3 class="heading mb-3" id="font_thai"><a href="#">แผนงาน Online Marketing</a></h3>
+                <p id="font_thai">การสนับสนุน / ถ่ายทอดองค์ความรู้ทางธุรกิจให้กับสมาชิกสหกิจชุมชน</p>
+                <a href="#" class="btn-custom"id ="font_thai">ดูเพิ่มเติม <span class="fa fa-long-arrow-right"></span></a>
 
               </div>
             </div>
@@ -429,9 +406,9 @@
               	<div class="meta">
               		<p><span class="fa fa-calendar"></span> 23 April 2020</p>
               	</div>
-                <h3 class="heading mb-3"><a href="#">แผนงาน Online Marketing</a></h3>
-                <p>การสำรวจข้อมูลสมาชิก / จัดทำสถานการณ์ข้อมูลสมาชิกในโครงการสหกิจชุมชนจังหวัดเชียงใหม่</p>
-                <a href="#" class="btn-custom">Continue <span class="fa fa-long-arrow-right"></span></a>
+                <h3 class="heading mb-3" id="font_thai"><a href="#">แผนงาน Online Marketing</a></h3>
+                <p id="font_thai">การสำรวจข้อมูลสมาชิก / จัดทำสถานการณ์ข้อมูลสมาชิกในโครงการสหกิจชุมชนจังหวัดเชียงใหม่</p>
+                <a href="#" class="btn-custom"id ="font_thai">ดูเพิ่มเติม <span class="fa fa-long-arrow-right"></span></a>
 
               </div>
             </div>
@@ -444,9 +421,9 @@
               	<div class="meta">
               		<p><span class="fa fa-calendar"></span> 23 April 2020</p>
               	</div>
-                <h3 class="heading mb-3"><a href="#">แผนงาน Online Marketing</a></h3>
-                <p>การขยายช่องทางตลาดออนไลน์ ให้กับสมาชิกที่ผลิตสินค้าที่มีคุณภาพได้มาตรฐานเหมาะสมกับกลุ่มเป้าหมายตลาดออนไลน์</p>
-                <a href="#" class="btn-custom">Continue <span class="fa fa-long-arrow-right"></span></a>
+                <h3 class="heading mb-3" id="font_thai"><a href="#">แผนงาน Online Marketing</a></h3>
+                <p id="font_thai">การขยายช่องทางตลาดออนไลน์ ให้กับสมาชิกที่ผลิตสินค้าที่มีคุณภาพได้มาตรฐานเหมาะสมกับกลุ่มเป้าหมายตลาดออนไลน์</p>
+                <a href="#" class="btn-custom"id ="font_thai">ดูเพิ่มเติม <span class="fa fa-long-arrow-right"></span></a>
 
               </div>
             </div>

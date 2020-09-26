@@ -62,7 +62,7 @@
       </div>
     </section>
 
-	<?php include 'Contact.php'; ?>
+	<?php include 'Content.php'; ?>
     <!-- END Contact -->
 
 	<section class="ftco-section ftco-no-pb">
