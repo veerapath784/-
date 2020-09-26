@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Liquor Store - Free Bootstrap 4 Template by Colorlib</title>
+    <title>Souvenirs For Thailand lovers</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -74,7 +74,7 @@
 				        			<span class="fa fa-map-marker"></span>
 				        		</div>
 				        		<div class="text">
-					            <p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
+					            <p><span>Address:</span> ถนนวัวลาย ตำบล หายยา อำเภอเมืองเชียงใหม่ เชียงใหม่ 50100</p>
 					          </div>
 				          </div>
 								</div>
@@ -84,7 +84,7 @@
 				        			<span class="fa fa-phone"></span>
 				        		</div>
 				        		<div class="text">
-					            <p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+					            <p><span>Phone:</span> <a href="tel:0650518585">065-0518585</a></p>
 					          </div>
 				          </div>
 								</div>
@@ -94,7 +94,7 @@
 				        			<span class="fa fa-paper-plane"></span>
 				        		</div>
 				        		<div class="text">
-					            <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+					            <p><span>Email:</span> <a href="mailto:chanipa.07@gmail.com">chanipa.07@gmail.com</a></p>
 					          </div>
 				          </div>
 								</div>
@@ -104,7 +104,7 @@
 				        			<span class="fa fa-globe"></span>
 				        		</div>
 				        		<div class="text">
-					            <p><span>Website</span> <a href="#">yoursite.com</a></p>
+					            <p><span>Website:</span> <a href="#">Souvenirs For Thailand lovers</a></p>
 					          </div>
 				          </div>
 								</div>
@@ -150,7 +150,7 @@
 									</div>
 								</div>
 								<div class="col-md-5 order-md-first d-flex align-items-stretch">
-									<div id="map" class="map"></div>
+								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3777.4413246206063!2d98.98227901533329!3d18.778475666135673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30da3076509e5cf3%3A0x196337361614f763!2z4Lin4Lix4LiU4Lio4Lij4Li14Liq4Li44Lie4Lij4Lij4LiT!5e0!3m2!1sth!2sth!4v1601108123770!5m2!1sth!2sth" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 								</div>
 							</div>
 						</div>
@@ -159,80 +159,8 @@
 			</div>
 		</section>
 
-    <footer class="ftco-footer">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-sm-12 col-md">
-            <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2 logo"><a href="#">Liquor <span>Store</span></a></h2>
-              <p>Far far away, behind the word mountains, far from the countries.</p>
-              <ul class="ftco-footer-social list-unstyled mt-2">
-                <li class="ftco-animate"><a href="#"><span class="fa fa-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="fa fa-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="fa fa-instagram"></span></a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-sm-12 col-md">
-            <div class="ftco-footer-widget mb-4 ml-md-4">
-              <h2 class="ftco-heading-2">My Accounts</h2>
-              <ul class="list-unstyled">
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>My Account</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Register</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Log In</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>My Order</a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-sm-12 col-md">
-            <div class="ftco-footer-widget mb-4 ml-md-4">
-              <h2 class="ftco-heading-2">Information</h2>
-              <ul class="list-unstyled">
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>About us</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Catalog</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Contact us</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Term &amp; Conditions</a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-sm-12 col-md">
-             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Quick Link</h2>
-              <ul class="list-unstyled">
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>New User</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Help Center</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Report Spam</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Faq's</a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-sm-12 col-md">
-            <div class="ftco-footer-widget mb-4">
-            	<h2 class="ftco-heading-2">Have a Questions?</h2>
-            	<div class="block-23 mb-3">
-	              <ul>
-	                <li><span class="icon fa fa-map marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-	                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-	                <li><a href="#"><span class="icon fa fa-paper-plane pr-4"></span><span class="text">info@yourdomain.com</span></a></li>
-	              </ul>
-	            </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="container-fluid px-0 py-5 bg-black">
-      	<div class="container">
-      		<div class="row">
-	          <div class="col-md-12">
-		
-	            <p class="mb-0" style="color: rgba(255,255,255,.5);"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-	  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart color-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib.com</a>
-	  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-	          </div>
-	        </div>
-      	</div>
-      </div>
-    </footer>
+		<?php include 'Footer.php'; ?>
+    <!-- END footer -->
     
   
 
