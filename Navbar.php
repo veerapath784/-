@@ -44,18 +44,17 @@
 	          <li class="nav-item "><a href="index.php" class="nav-link" id="font_thai">หน้าหลัก</a></li>
 	          <li class="nav-item"><a href="about.php" class="nav-link" id="font_thai">เกี่ยวกับเรา</a></li>
 	          <li class="nav-item dropdown">
-			  <a class="nav-link dropdown-toggle" href="#" id="dropdown04 "  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+			  <a class="nav-link dropdown-toggle" href="product.php" id="dropdown04 "  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
 			  style=" font-family: 'Prompt', sans-serif;">ผลิตภัณฑ์</a>
               <div class="dropdown-menu" aria-labelledby="dropdown04">
-              	<a class="dropdown-item" id="font_thai" href="#">อาหาร/เครื่องดื่ม</a>
-                <a class="dropdown-item" id="font_thai" href="#">ของใช้</a>
-                <a class="dropdown-item" id="font_thai" href="#">ของที่ระลึก</a>
-                <a class="dropdown-item" id="font_thai" href="#">ครีมบำรุง</a>
-                <a class="dropdown-item" id="font_thai" href="#">เสื้อผ้า/กระเป๋า</a>
-                <a class="dropdown-item" id="font_thai" href="#">เครื่อง</a>
+              	<a class="dropdown-item" id="font_thai" href="product_food&drink.php">อาหาร/เครื่องดื่ม</a>
+                <a class="dropdown-item" id="font_thai" href="product_use.php">ของใช้</a>
+                <a class="dropdown-item" id="font_thai" href="product_thegift.php">ของที่ระลึก</a>
+                <a class="dropdown-item" id="font_thai" href="product_cream.php">ครีมบำรุง</a>
+				<a class="dropdown-item" id="font_thai" href="product_tshirt.php">เสื้อผ้า/กระเป๋า</a>
               </div>
             </li>
-	          <li class="nav-item"><a href="#" class="nav-link" id="font_thai">ข่าวสาร และ กิจกรรม</a></li>
+	          <li class="nav-item"><a href="blog.php" class="nav-link" id="font_thai">ข่าวสาร และ กิจกรรม</a></li>
 	          <li class="nav-item"><a href="contact.php" class="nav-link"  id="font_thai">ติดต่อเรา</a></li>
 	        </ul>
 	      </div>

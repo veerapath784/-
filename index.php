@@ -148,161 +148,156 @@
           </div>
         </div>
 				<div class="row">
-					<div class="col-md-3 d-flex">
-						<div class="product ftco-animate">
-							<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Cream/pro_1.jpg);">
-								<div class="desc">
-									<p class="meta-prod d-flex">
-										
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-heart"></span></a>
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
-									</p>
+				<div class="col-md-3 d-flex">
+								<div class="product ftco-animate">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Cream/pro_1.jpg);">
+										<div class="desc">
+											<p class="meta-prod d-flex">
+												<a href="#" onclick="return confirm('ยังไม่มีข้อมูล');" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
+												<a href="product_cream-1.php" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
+											</p>
+										</div>
+									</div>
+									<div class="text text-center">
+										<span class="new">สมุทรสงคราม</span>
+										<span class="category">ครีมบำรุง</span>
+										<h2>แชมพูใบขลู่ เรือนไม้หอม</h2>
+										<p class="mb-0"><span class="price price-sale">0.00 ฿</span> <span class="price">0.00 ฿</span></p>
+									</div>
 								</div>
 							</div>
-							<div class="text text-center ">
-								<span class="sale">Sale</span>
-								<span class="category">ครีมบำรุงผลิตภัณฑ์สปา</span>
-								<h2 class="font-weight-normal">ธูปหอม ธรรมดี <br> จังหวัดอุทัยธานี </h2>
-								<p class="mb-0"> <span class="price">$00.00 ฿</span></p>
-								
-								<!-- ตัวแสดงราคาจากปกติ -->
-								<!-- <span class="price price-sale">00.00 ฿</span> -->
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 d-flex">
-						<div class="product ftco-animate">
-							<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Cream/pro_2.jpg);">
-								<div class="desc">
-									<p class="meta-prod d-flex">
-										
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-heart"></span></a>
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
-									</p>
+							<div class="col-md-3 d-flex">
+								<div class="product ftco-animate">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Cream/pro_4.jpg);">
+										<div class="desc">
+											<p class="meta-prod d-flex">
+												<a href="#" onclick="return confirm('ยังไม่มีข้อมูล');" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
+												<a href="product_cream-2.php" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>	
+											</p>
+										</div>
+									</div>
+									<div class="text text-center">
+										<span class="new">กรุงเทพมหานคร</span>
+										<span class="category">ครีมบำรุง</span>
+										<h2>ยาหม่องน้ำสมุนไพร เซ็ง เซ็ง อิ๊ว</h2>
+										<p class="mb-0"><span class="price price-sale">0.00 ฿</span> <span class="price">0.00 ฿</span></p>
+									</div>
 								</div>
 							</div>
-							<div class="text text-center">
-								<span class="seller">Best Seller</span>
-								<span class="category">ครีมบำรุงผลิตภัณฑ์สปา</span>
-								<h2 class="font-weight-normal">แชมพูใบขลู่เรือนไม้หอม <br> จังหวัดสมุทรสงคราม</h2>
-								<span class="price">00.00 ฿</span>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 d-flex">
-						<div class="product ftco-animate">
-							<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Drink&Food/pro_1.jpg);">
-								<div class="desc">
-									<p class="meta-prod d-flex">
-										
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-heart"></span></a>
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
-									</p>
+							<div class="col-md- d-flex">
+								<div class="product ftco-animate">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Drink&Food/pro_4.jpg);">
+										<div class="desc">
+											<p class="meta-prod d-flex">
+												<a href="#" onclick="return confirm('ยังไม่มีข้อมูล');" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
+												<a href="product_food&drink-1.php" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
+											</p>
+										</div>
+									</div>
+									<div class="text text-center">
+										<span class="new">สุพรรณบุรี</span>
+										<span class="category">อาหาร&เครื่องดื่ม</span>
+										<h2>ธันพืชโฮลเกรน Grainny </h2>
+										<p class="mb-0"><span class="price price-sale">0.00 ฿</span> <span class="price">0.00 ฿</span></p>
+									</div>
 								</div>
 							</div>
-							<div class="text text-center">
-								<span class="new">New Arrival</span>
-								<span class="category">อาหาร&เครื่องดื่ม</span>
-								<h2 class="font-weight-normal">งาดำคั่วป่นละเอียดลออ <br> จังหวัดเชียงใหม่</h2>
-								<span class="price">00.00 ฿</span>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 d-flex">
-						<div class="product ftco-animate">
-							<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Drink&Food/pro_2.jpg);">
-								<div class="desc">
-									<p class="meta-prod d-flex">
-										
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-heart"></span></a>
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
-									</p>
+							<div class="col-md-3 d-flex">
+								<div class="product ftco-animate">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Drink&Food/pro_7.jpg);">
+										<div class="desc">
+											<p class="meta-prod d-flex">
+												<a href="#" onclick="return confirm('ยังไม่มีข้อมูล');" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
+												<a href="product_food&drink-2.php" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
+											</p>
+										</div>
+									</div>
+									<div class="text text-center">
+										<span class="new">ลำปาง</span>
+										<span class="category">อาหาร&เครื่องดื่ม</span>
+										<h2>ข้าวแต๋นน้ำแตงโม บุญทวี</h2>
+										<p class="mb-0"><span class="price price-sale">0.00 ฿</span> <span class="price">0.00 ฿</span></p>
+									</div>
 								</div>
 							</div>
-							<div class="text text-center">
-								<span class="category">อาหาร&เครื่องดื่ม</span>
-								<h2 class="font-weight-normal">น้ำผึ้งธรรมรส <br> จังหวัดชัยนาท</h2>
-								<span class="price">00.00 ฿</span>
-							</div>
-						</div>
-					</div>
 
-					<div class="col-md-3 d-flex">
-						<div class="product ftco-animate">
-							<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Tshirt/pro_1.jpg);">
-								<div class="desc">
-									<p class="meta-prod d-flex">
-										
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-heart"></span></a>
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
-									</p>
+							<div class="col-md-3 d-flex">
+								<div class="product ftco-animate">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Use&Thegift/pro_6.jpg);">
+										<div class="desc">
+											<p class="meta-prod d-flex">
+												<a href="#" onclick="return confirm('ยังไม่มีข้อมูล');" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
+												<a href="product_thegift-1.php" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
+											</p>
+										</div>
+									</div>
+									<div class="text text-center">
+										<span class="new">ลำปาง</span>
+										<span class="category">ของใช้</span>
+										<h2>บูชาดี</h2>
+										<p class="mb-0"><span class="price price-sale">0.00 ฿</span> <span class="price">0.00 ฿</span></p>
+									</div>
 								</div>
 							</div>
-							<div class="text text-center">
-								<span class="category">เสื้อผ้า&กระเป๋า&เครื่องประดับ</span>
-								<h2 class="font-weight-normal">ผ้าเขียนเทียนชาวไทยภูเขา <br> จังหวัดน่าน</h2>
-								<span class="price">00.00 ฿</span>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 d-flex">
-						<div class="product ftco-animate">
-							<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Tshirt/pro_2.jpg);">
-								<div class="desc">
-									<p class="meta-prod d-flex">
-										
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-heart"></span></a>
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
-									</p>
+							<div class="col-md-3 d-flex">
+								<div class="product ftco-animate">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Tshirt/pro_2.jpg);">
+										<div class="desc">
+											<p class="meta-prod d-flex">
+												<a href="#" onclick="return confirm('ยังไม่มีข้อมูล');" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
+												<a href="product_tshirt-1.php" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
+											</p>
+										</div>
+									</div>
+									<div class="text text-center">
+										<span class="new">อบุลราชธานี</span>
+										<span class="category">เสื้อผ้า&กระเป๋า</span>
+										<h2>รองเท้าเชือกสาน บ้านทุ่งนอน</h2>
+										<p class="mb-0"><span class="price price-sale">0.00 ฿</span> <span class="price">0.00 ฿</span></p>
+									</div>
 								</div>
 							</div>
-							<div class="text text-center">
-								<span class="category">เสื้อผ้า&กระเป๋า&เครื่องประดับ</span>
-								<h2 class="font-weight-normal">รองเท้าเชือกสานบ้านทุ่งบอน <br> จังหวัดอุบลราชธานี</h2>
-								<span class="price">00.00 ฿</span>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 d-flex">
-						<div class="product ftco-animate">
-							<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Use&Thegift/pro_1.jpg);">
-								<div class="desc">
-									<p class="meta-prod d-flex">
-										
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-heart"></span></a>
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
-									</p>
+							<div class="col-md-3 d-flex">
+								<div class="product ftco-animate">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Tshirt/pro_3.jpg);">
+										<div class="desc">
+											<p class="meta-prod d-flex">
+												<a href="#" onclick="return confirm('ยังไม่มีข้อมูล');" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
+												<a href="product_tshirt-2.php" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
+											</p>
+										</div>
+									</div>
+									<div class="text text-center">
+										<span class="new">มหาสารคาม</span>
+										<span class="category">เสื้อผ้า&กระเป๋า</span>
+										<h2>ผ้าไหมมัดหมี่ย้อมคราม ลายดอกสร้อยดอกหมาก</h2>
+										<p class="mb-0"><span class="price price-sale">0.00 ฿</span> <span class="price">0.00 ฿</span></p>
+									</div>
 								</div>
 							</div>
-							<div class="text text-center">
-								<span class="category">ของใช้&ของที่ระลึก</span>
-								<h2 class="font-weight-normal">กระเป๋าพลาสติกล้อลาก Chonlatip YAZO <br> จังหวัดยโสธร</h2>
-								<span class="price">00.00 ฿</span>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 d-flex">
-						<div class="product ftco-animate">
-							<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Use&Thegift/pro_2.jpg);">
-								<div class="desc">
-									<p class="meta-prod d-flex">
-										
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-heart"></span></a>
-										<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
-									</p>
+							<div class="col-md-3 d-flex">
+								<div class="product ftco-animate">
+									<div class="img d-flex align-items-center justify-content-center" style="background-image: url(images/Use&Thegift/pro_4.jpg);">
+										<div class="desc">
+											<p class="meta-prod d-flex">
+												<a href="#" onclick="return confirm('ยังไม่มีข้อมูล');" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
+												<a href="product_use-1.php" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
+											</p>
+										</div>
+									</div>
+									<div class="text text-center">
+										<span class="new">เชียงใหม่</span>
+										<span class="category">ของใช้</span>
+										<h2>Set of celadon handmade</h2>
+										<p class="mb-0"><span class="price price-sale">0.00 ฿</span> <span class="price">0.00 ฿</span></p>
+									</div>
 								</div>
 							</div>
-							<div class="text text-center">
-								<span class="category">ของใช้&ของที่ระลึก</span>
-								<h2 class="font-weight-normal">ศิลปะหินทรายมองตาม <br> จังหวัดสระแก้ว</h2>
-								<span class="price">00.00 ฿</span>
-							</div>
-						</div>
-					</div>
+
 				</div>
 				<div class="row justify-content-center">
 					<div class="col-md-4">
-						<a href="#" class="btn btn-primary d-block" id="font_thai">สินค้า ทั้งหมดของเรา <span class="fa fa-long-arrow-right"></span></a>
+						<a href="product_food&drink.php" class="btn btn-primary d-block" id="font_thai">สินค้า ทั้งหมดของเรา <span class="fa fa-long-arrow-right"></span></a>
 					</div>
 				</div>
 			</div>
