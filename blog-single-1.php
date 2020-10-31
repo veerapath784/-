@@ -57,7 +57,7 @@
         <div class="row no-gutters slider-text align-items-end justify-content-center">
           <div class="col-md-9 ftco-animate mb-5 text-center">
           	<p class="breadcrumbs mb-0"><span class="mr-2"><a href="index.html">Home <i class="fa fa-chevron-right"></i></a></span> <span class="mr-2"><a href="blog.html">Blog <i class="fa fa-chevron-right"></i></a></span> <span>Blog Single <i class="fa fa-chevron-right"></i></span></p>
-            <h2 class="mb-0 bread">แผนงาน Online Marketing</h2>
+            <h2 class="mb-0 bread">รับทำเว็บไซต์</h2>
           </div>
         </div>
       </div>
@@ -68,96 +68,71 @@
         <div class="row">
           <div class="col-lg-12 ftco-animate">
           	<p>
-              <img src="images/news/Cover.jpg" alt="" class="img-fluid">
+              <img src="images/news/D.jpg" alt="" class="img-fluid">
             </p>
             <br><hr>
             <div class="container">
         <div class="row d-flex">
-          <div class="col-lg-6 d-flex align-items-stretch ftco-animate">
-          	<div class="blog-entry d-flex">
-          		<a href="blog-single.html" class="block-20 img" style="background-image: url('images/image_1.jpg');">
-              </a>
-              <div class="text p-4 bg-light">
-              	<div class="meta">
-              		<p><span class="fa fa-calendar"></span> 23 April 2020</p>
-              	</div>
-                <h3 class="heading mb-3" id="font_thai"><a href="#">แผนงาน Online Marketing</a></h3>
-                <p id="font_thai">การให้คำปรึกษาแนะนำเบื้องต้น / การส่งต่อขึ้นทะเบียนสมาชิกสหกิจชุมชนจังหวัดเชียงใหม่ / การส่งต่อหน่วยงานพันธมิตร</p>
-                <a href="#" class="btn-custom"id ="font_thai">ดูเพิ่มเติม <span class="fa fa-long-arrow-right"></span></a>
+                <div class="col-md-4">
+              <img src="images/news/1.jpg" class="img-thumbnail" alt="">
+                  <h3 class="heading mb-3" id="font_thai">ประชาสัมพันธ์ แพ็คเกจ</h3>            
+                  <h5 id="font_thai" style="color:red" >ออกแบบเว็บไซต์ประชาสัมพันธ์</h5>
+                  <p id="font_thai"> - หน้าหลัก (Home)</p>
+                  <p id="font_thai"> - หน้าเกี่ยวกับเรา (About)</p>
+                  <p id="font_thai"> - หน้าสินค้า/บริการ (Product/Services)</p>
+                  <p id="font_thai"> - หน้าข่าวสาร/โปรโมชั่น(News/Promotion)</p>
+                  <p id="font_thai"> - หน้าติดต่อเรา (Contact)</p>
+                  <p id="font_thai"> - ข้อมูลไม่เกิน 7 หน้า</p>
+              <a href="contact.php" class="btn btn-success" >สั่งซื้อ</a>
+                </div>
 
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 d-flex align-items-stretch ftco-animate">
-          	<div class="blog-entry d-flex">
-          		<a href="blog-single.html" class="block-20 img" style="background-image: url('images/image_2.jpg');">
-              </a>
-              <div class="text p-4 bg-light">
-              	<div class="meta">
-              		<p><span class="fa fa-calendar"></span> 23 April 2020</p>
-              	</div>
-                <h3 class="heading mb-3" id="font_thai"><a href="#">แผนงาน Online Marketing</a></h3>
-                <p id="font_thai">การเชื่อมโยงหน่วยงานในพื้นที่ภาครัฐและเอกชน เพื่อเชื่อมโยงด้านข้อมูลการบริการ และความร่วมมือในด้านต่าง ๆ</p>
-                <a href="#" class="btn-custom"id ="font_thai">ดูเพิ่มเติม <span class="fa fa-long-arrow-right"></span></a>
-
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 d-flex align-items-stretch ftco-animate">
-          	<div class="blog-entry d-flex">
-          		<a href="blog-single.html" class="block-20 img" style="background-image: url('images/image_3.jpg');">
-              </a>
-              <div class="text p-4 bg-light">
-              	<div class="meta">
-              		<p><span class="fa fa-calendar"></span> 23 April 2020</p>
-              	</div>
-                <h3 class="heading mb-3" id="font_thai"><a href="#">แผนงาน Online Marketing</a></h3>
-                <p id="font_thai">การสนับสนุน / ถ่ายทอดองค์ความรู้ทางธุรกิจให้กับสมาชิกสหกิจชุมชน</p>
-                <a href="#" class="btn-custom"id ="font_thai">ดูเพิ่มเติม <span class="fa fa-long-arrow-right"></span></a>
-
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 d-flex align-items-stretch ftco-animate">
-          	<div class="blog-entry d-flex">
-          		<a href="blog-single.html" class="block-20 img" style="background-image: url('images/image_4.jpg');">
-              </a>
-              <div class="text p-4 bg-light">
-              	<div class="meta">
-              		<p><span class="fa fa-calendar"></span> 23 April 2020</p>
-              	</div>
-                <h3 class="heading mb-3" id="font_thai"><a href="#">แผนงาน Online Marketing</a></h3>
-                <p id="font_thai">การสำรวจข้อมูลสมาชิก / จัดทำสถานการณ์ข้อมูลสมาชิกในโครงการสหกิจชุมชนจังหวัดเชียงใหม่</p>
-                <a href="#" class="btn-custom"id ="font_thai">ดูเพิ่มเติม <span class="fa fa-long-arrow-right"></span></a>
-
-              </div>
-            </div>
-		  </div>
-		  <div class="col-lg-6 d-flex align-items-stretch ftco-animate">
-          	<div class="blog-entry d-flex">
-          		<a href="blog-single.html" class="block-20 img" style="background-image: url('images/images_5.jpg');">
-              </a>
-              <div class="text p-4 bg-light">
-              	<div class="meta">
-              		<p><span class="fa fa-calendar"></span> 23 April 2020</p>
-              	</div>
-                <h3 class="heading mb-3" id="font_thai"><a href="#">แผนงาน Online Marketing</a></h3>
-                <p id="font_thai">การขยายช่องทางตลาดออนไลน์ ให้กับสมาชิกที่ผลิตสินค้าที่มีคุณภาพได้มาตรฐานเหมาะสมกับกลุ่มเป้าหมายตลาดออนไลน์</p>
-                <a href="#" class="btn-custom"id ="font_thai">ดูเพิ่มเติม <span class="fa fa-long-arrow-right"></span></a>
-
-              </div>
-            </div>
-          </div>
+                <div class="col-md-4">
+              <img src="images/news/2.jpg" class="img-thumbnail" alt="">
+                  <h3 class="heading mb-3" id="font_thai">ประชาสัมพันธ์ แพ็คเกจ</h3>            
+                  <h5 id="font_thai" style="color:red" >ออกแบบเว็บไซต์ประชาสัมพันธ์</h5>
+                    <p id="font_thai"> - หน้าหลัก (Home)</p>
+                    <p id="font_thai"> - หน้าเกี่ยวกับเรา (About)</p>
+                    <p id="font_thai"> - หน้าสินค้า/บริการ (Product/Services)</p>
+                    <p id="font_thai"> - หน้าข่าวสาร/โปรโมชั่น(News/Promotion)</p>
+                    <p id="font_thai"> - หน้าติดต่อเรา (Contact)</p>
+                    <p id="font_thai"> - ข้อมูลไม่เกิน 7 หน้า</p>
+                  <h5 id="font_thai" style="color:red" >ออกแบบระบบหลังบ้าน</h5>
+                    <p id="font_thai"> - ระบบจัดการแบนเนอร์สไลด์หน้าแรก</p>
+                    <p id="font_thai"> - ระบบจัดการข่าวสาร/ผลงาน</p>
+                    <p id="font_thai"> - ระบบจัดการสินค้า/บริการ</p>
+              <a href="contact.php" class="btn btn-success" >สั่งซื้อ</a>
+                </div>
+                <div class="col-md-4">
+              <img src="images/news/3.jpg" class="img-thumbnail" alt="">
+                  <h3 class="heading mb-3" id="font_thai">ประชาสัมพันธ์ แพ็คเกจ</h3>            
+                  <h5 id="font_thai" style="color:red" >ออกแบบเว็บไซต์ประชาสัมพันธ์</h5>
+                  <p id="font_thai"> - หน้าหลัก (Home)</p>
+                  <p id="font_thai"> - หน้าเกี่ยวกับเรา (About)</p>
+                  <p id="font_thai"> - หน้าสินค้า/บริการ (Product/Services)</p>
+                  <p id="font_thai"> - หน้าข่าวสาร/โปรโมชั่น(News/Promotion)</p>
+                  <p id="font_thai"> - หน้าติดต่อเรา (Contact)</p>
+                  <p id="font_thai"> - หน้าวิธีชำระเงิน</p>
+                  <p id="font_thai"> - หน้าแจ้งชำระเงิน</p>
+                  <p id="font_thai"> - ข้อมูลไม่เกิน 7 หน้า</p>
+                  <h5 id="font_thai" style="color:red" >ออกแบบระบบหลังบ้าน</h5>
+                    <p id="font_thai"> - ระบบจัดการแบนเนอร์สไลด์หน้าแรก</p>
+                    <p id="font_thai"> - ระบบจัดการข่าวสาร/ผลงาน</p>
+                    <p id="font_thai"> - ระบบจัดการสินค้า/บริการ</p>
+                    <p id="font_thai"> - ระบบจัดการสมาชิก</p>
+                    <p id="font_thai"> - ระบบชำระเงินแบบแจ้งโอน</p>
+              <a href="contact.php" class="btn btn-success" >สั่งซื้อ</a>
+                </div>
+        
         </div>
       </div>
-            <div class="tag-widget post-tag-container mb-5 mt-5">
+<!--             <div class="tag-widget post-tag-container mb-5 mt-5">
               <div class="tagcloud">
                 <a href="#" class="tag-cloud-link">Life</a>
                 <a href="#" class="tag-cloud-link">Sport</a>
                 <a href="#" class="tag-cloud-link">Tech</a>
                 <a href="#" class="tag-cloud-link">Travel</a>
               </div>
-            </div>
+            </div> -->
           </div> <!-- .col-md-8 -->
         </div>
       </div>

@@ -67,36 +67,17 @@
       <div class="container">
         <div class="row d-flex">
 
-          <div class="col-lg-6 d-flex align-items-stretch ftco-animate">
-          	<div class="blog-entry d-md-flex">
-          		<a href="blog-single.html" class="block-20 img" style="background-image: url('images/image_1.jpg');">
-              </a>
-              <div class="text p-4 bg-light">
-              	<div class="meta">
-              		<p><span class="fa fa-calendar"></span> 23 April 2020</p>
-              	</div>
-                <h3 class="heading mb-3"><a href="#">แผนงาน Online Marketing</a></h3>
-                <a href="blog-single-1.php" class="btn-custom">Continue <span class="fa fa-long-arrow-right"></span></a>
+        <div class="col-md-12 ftco-animate mb-5">
+          <a href="blog-single-1.php"> <img src="images/news/D.jpg" class="img-fluid" alt="Responsive image" alt=""></a>
+        </div>
 
-              </div>
-            </div>
-          </div>
+        <div class="col-md-12 ftco-animate mb-5">
+          <a href="blog-single-2.php"> <img src="images/news/D1.jpg" class="img-fluid" alt="Responsive image" alt=""></a>
+        </div>
 
-          <div class="col-lg-6 d-flex align-items-stretch ftco-animate">
-          	<div class="blog-entry d-md-flex">
-          		<a href="blog-single.html" class="block-20 img" style="background-image: url('images/news/1/cover.jpg');">
-              </a>
-              <div class="text p-4 bg-light">
-              	<div class="meta">
-              		<p><span class="fa fa-calendar"></span> 23 April 2020</p>
-              	</div>
-                <h3 class="heading mb-3"><a href="#">กิจกรรม</a></h3>
-                <p></p>
-                <a href="blog-single-2.php" class="btn-custom">Continue <span class="fa fa-long-arrow-right"></span></a>
-
-              </div>
-            </div>
-          </div>
+        <div class="col-md-12 ftco-animate mb-5">
+          <a href="blog-single-3.php"> <img src="images/news/D2.jpg" class="img-fluid" alt="Responsive image" alt=""></a>
+        </div>
 
         </div>
       </div>

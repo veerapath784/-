@@ -57,7 +57,7 @@
         <div class="row no-gutters slider-text align-items-end justify-content-center">
           <div class="col-md-9 ftco-animate mb-5 text-center">
           	<p class="breadcrumbs mb-0"><span class="mr-2"><a href="index.html">Home <i class="fa fa-chevron-right"></i></a></span> <span class="mr-2"><a href="blog.html">Blog <i class="fa fa-chevron-right"></i></a></span> <span>Blog Single <i class="fa fa-chevron-right"></i></span></p>
-            <h2 class="mb-0 bread">กิจกรรม</h2>
+            <h2 class="mb-0 bread">แผนงาน Online Marketing</h2>
           </div>
         </div>
       </div>
@@ -68,41 +68,40 @@
         <div class="row">
           <div class="col-lg-12 ftco-animate">
           	<p>
-              <img src="images/news/Cover1.jpg" alt="" class="img-fluid">
+              <img src="images/news/D1.jpg" alt="" class="img-fluid">
             </p>
             <br><hr>
-          <!-- Gallery -->
+            <div class="container">
+        <div class="row d-flex">
 
-          <div style="margin: 5px; border: 1px solid #ccc; float: left; width: 180px;">
-                <a target="_blank" href="images/news/1/1.jpg">
-                  <img src="images/news/1/1.jpg" style="width: 100%; height: auto;" alt="Cinque Terre" width="600" height="400">
-                </a>
-              </div>
+                <div class="col-md-6">
+                  <h3 class="heading mb-3" id="font_thai">การให้คำปรึกษา</h3>            
+                  <p id="font_thai">การให้คำปรึกษาแนะนำเบื้องต้น / การส่งต่อขึ้นทะเบียนสมาชิกสหกิจชุมชนจังหวัดเชียงใหม่ / การส่งต่อหน่วยงานพันธมิตร</p>
+                </div>
 
-              <div style="margin: 5px; border: 1px solid #ccc; float: left; width: 180px;">
-                <a target="_blank" href="images/news/1/2.jpg">
-                  <img src="images/news/1/2.jpg" style="width: 100%; height: auto;" alt="Forest" width="600" height="400">
-                </a>
-              </div>
+                <div class="col-md-6">
+                  <h3 class="heading mb-3" id="font_thai">การเชื่อมโยงหน่วยงานในพื้นที่ภาครัฐและเอกชน</h3>            
+                  <p id="font_thai">การเชื่อมโยงหน่วยงานในพื้นที่ภาครัฐและเอกชน เพื่อเชื่อมโยงด้านข้อมูลการบริการ และความร่วมมือในด้านต่าง ๆ</p>
+                </div>
 
-              <div style="margin: 5px; border: 1px solid #ccc; float: left; width: 180px;">
-                <a target="_blank" href="images/news/1/3.jpg">
-                  <img src="images/news/1/3.jpg" style="width: 100%; height: auto;" alt="Northern Lights" width="600" height="400">
-                </a>
-              </div>
+                <div class="col-md-6">
+                  <h3 class="heading mb-3" id="font_thai">การสนับสนุน</h3>            
+                  <p id="font_thai">การสนับสนุน / ถ่ายทอดองค์ความรู้ทางธุรกิจให้กับสมาชิกสหกิจชุมชน</p>
+                </div>
 
-              <div style="margin: 5px; border: 1px solid #ccc; float: left; width: 180px;">
-                <a target="_blank" href="images/news/1/4.jpg">
-                  <img style="width: 100%; height: auto;" src="images/news/1/4.jpg" alt="Mountains" width="600" height="400">
-                </a>
-              </div>
+                <div class="col-md-6">
+                  <h3 class="heading mb-3" id="font_thai">การสนับสนุน</h3>            
+                  <p id="font_thai">การสำรวจข้อมูลสมาชิก / จัดทำสถานการณ์ข้อมูลสมาชิกในโครงการสหกิจชุมชนจังหวัดเชียงใหม่</p>
+                </div>
 
-              <div style="margin: 5px; border: 1px solid #ccc; float: left; width: 180px;">
-                <a target="_blank" href="images/news/1/5.jpg">
-                  <img style="width: 100%; height: auto;" src="images/news/1/5.jpg" alt="Mountains" width="600" height="400">
-                </a>
-              </div>
-            <!-- Gallery -->
+                <div class="col-md-6">
+                  <h3 class="heading mb-3" id="font_thai">การขยายช่องทาง</h3>            
+                  <p id="font_thai">การขยายช่องทางตลาดออนไลน์ ให้กับสมาชิกที่ผลิตสินค้าที่มีคุณภาพได้มาตรฐานเหมาะสมกับกลุ่มเป้าหมายตลาดออนไลน์</p>
+                </div>
+
+
+        </div>
+      </div>
           </div> <!-- .col-md-8 -->
         </div>
       </div>
